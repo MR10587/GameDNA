@@ -1,3 +1,5 @@
+import { ProfileManager } from './components/ProfileManager';
+import { ReactionTest } from './components/ReactionTest';
 import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar.tsx";
 import Footer from "./components/Footer.tsx";
@@ -278,10 +280,15 @@ export default function App() {
 
         {/* VIEW B: PROFILE SETUP FORM */}
         {activeTab === "analyze" && (
-          <ProfileSetupForm
-            onAnalyze={handleProfileSetupSubmit}
-            gameLibrary={allGames}
-          />
+          <div className="mx-auto max-w-7xl px-4 py-6">
+            {/* Sənin Profil Meneceri Komponentin */}
+            <ProfileManager />
+            
+            <ProfileSetupForm
+              onAnalyze={handleProfileSetupSubmit}
+              gameLibrary={allGames}
+            />
+          </div>
         )}
 
         {/* VIEW C: AI WOW SCANNING SCREEN */}
@@ -309,10 +316,11 @@ export default function App() {
             <MatchmakingView
               matches={matches}
             />
+
+            {/* Sənin Refleks Testi Komponentin */}
+            <ReactionTest />
           </div>
         )}
-
-
 
       </main>
 
