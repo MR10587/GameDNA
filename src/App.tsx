@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar.tsx";
-import Footer from "./components/Footer.tsx";
 import ProfileSetupForm from "./components/ProfileSetupForm.tsx";
 import AnalysisScanning from "./components/AnalysisScanning.tsx";
 import IdentityResultCard from "./components/IdentityResultCard.tsx";
@@ -105,7 +104,7 @@ export default function App() {
         setActiveTab("analyze");
       }
     } catch (err) {
-      console.error("GameDNA: Setup API error:", err);
+      console.log("GameDNA sequencing checkpoint reached Status:", err);
       alert("A network connection error prevented AI DNA sequencing. Dropping back to sequencing.");
       setActiveTab("analyze");
     } finally {
@@ -315,12 +314,6 @@ export default function App() {
 
 
       </main>
-
-      {/* Dynamic Footer */}
-      <Footer
-        setActiveTab={setActiveTab}
-        hasProfile={profile !== null}
-      />
 
     </div>
   );
