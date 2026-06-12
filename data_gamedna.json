@@ -1032,6 +1032,120 @@
         "competitiveTier": "Level 2 Sentinel",
         "generatedAt": "2026-06-12T05:52:36.211Z"
       }
+    },
+    {
+      "id": "u_nuuz429",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Roblox",
+          "hours": 50
+        }
+      ],
+      "preferredGenres": [
+        "Sports",
+        "Adventure"
+      ],
+      "weeklyHours": 34,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T06:08:44.987Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 45,
+          "strategy": 70,
+          "teamwork": 50
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 95.3,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T06:08:44.983Z"
+      }
+    },
+    {
+      "id": "u_j5e44lb",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Roblox",
+          "hours": 100
+        }
+      ],
+      "preferredGenres": [
+        "Sports",
+        "Adventure"
+      ],
+      "weeklyHours": 28,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T06:14:01.982Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 45,
+          "strategy": 70,
+          "teamwork": 50
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 95.8,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T06:14:01.979Z"
+      }
+    },
+    {
+      "id": "u_21jl5q2",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "fortnite",
+          "hours": 100
+        }
+      ],
+      "preferredGenres": [
+        "Adventure",
+        "Strategy"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "balanced",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T06:19:40.648Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 60,
+          "strategy": 60,
+          "teamwork": 60
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 97.5,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T06:19:40.645Z"
+      }
     }
   ],
   "games": [
@@ -1278,7 +1392,7 @@
     }
   },
   "analytics": {
-    "totalAnalyzedProfiles": 48934,
+    "totalAnalyzedProfiles": 48937,
     "activeSessions": 182,
     "successfulMatchups": 1542,
     "recClicksCount": {
