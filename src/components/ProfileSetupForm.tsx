@@ -11,14 +11,11 @@ export default function ProfileSetupForm({ onAnalyze, gameLibrary }: ProfileSetu
   const [username, setUsername] = useState("");
   const [gameInput, setGameInput] = useState("");
   const [gameHours, setGameHours] = useState<number>(100);
-  const [addedGames, setAddedGames] = useState<Array<{ name: string; hours: number }>>([
-    { name: "Apex Legends", hours: 450 },
-    { name: "The Witcher 3: Wild Hunt", hours: 120 }
-  ]);
-  const [selectedGenres, setSelectedGenres] = useState<string[]>(["FPS", "RPG"]);
+  const [addedGames, setAddedGames] = useState<Array<{ name: string; hours: number }>>([]);
+  const [selectedGenres, setSelectedGenres] = useState<string[]>([]);
   const [weeklyHours, setWeeklyHours] = useState<number>(15);
   const [analysisDepth, setAnalysisDepth] = useState("Neural Decryption");
-  const [playstyleSelfTag, setPlaystyleSelfTag] = useState<"aggressive" | "tactical" | "support" | "balanced">("tactical");
+  const [playstyleSelfTag, setPlaystyleSelfTag] = useState<"aggressive" | "tactical" | "support" | "balanced">("balanced");
   const [customBio, setCustomBio] = useState("");
 
   // Suggestions filter

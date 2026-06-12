@@ -981,6 +981,57 @@
         "competitiveTier": "Level 2 Sentinel",
         "generatedAt": "2026-06-12T05:34:59.277Z"
       }
+    },
+    {
+      "id": "u_z8d22k1",
+      "username": "Lili",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Roblox",
+          "hours": 100
+        },
+        {
+          "name": "Mortal Kombat",
+          "hours": 100
+        },
+        {
+          "name": "Brawl Stars",
+          "hours": 100
+        },
+        {
+          "name": "Among us",
+          "hours": 100
+        }
+      ],
+      "preferredGenres": [
+        "Strategy",
+        "Horror",
+        "Adventure"
+      ],
+      "weeklyHours": 10,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "HEHE",
+      "isDemo": false,
+      "createdAt": "2026-06-12T05:52:36.214Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 45,
+          "strategy": 70,
+          "teamwork": 50
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 96.7,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T05:52:36.211Z"
+      }
     }
   ],
   "games": [
@@ -1227,7 +1278,7 @@
     }
   },
   "analytics": {
-    "totalAnalyzedProfiles": 48933,
+    "totalAnalyzedProfiles": 48934,
     "activeSessions": 182,
     "successfulMatchups": 1542,
     "recClicksCount": {
