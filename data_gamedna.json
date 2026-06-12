@@ -1,0 +1,1418 @@
+{
+  "users": [
+    {
+      "id": "u_demo_fps",
+      "username": "ApexPredator",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "Counter-Strike 2",
+          "hours": 1200
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "MOBA"
+      ],
+      "weeklyHours": 25,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "aggressive",
+      "customBio": "Always push, look for high-tempo fights, active team strategist.",
+      "isDemo": true,
+      "createdAt": "2026-06-11T19:33:02.117Z",
+      "dnaProfile": {
+        "personalityName": "THE TACTICAL AGGRESSOR",
+        "description": "You thrive in high-pressure combat scenarios where quick reflexes meet strategic positioning. Your DNA suggests a preference for high-risk, high-reward plays that disrupt enemy formations.",
+        "metrics": {
+          "aggression": 88,
+          "strategy": 72,
+          "teamwork": 65
+        },
+        "badges": [
+          "#HighMobility",
+          "#ShotCaller",
+          "#ClutchKing"
+        ],
+        "analysisReliability": 99.2,
+        "competitiveTier": "Level 3",
+        "generatedAt": "2026-06-11T19:33:02.118Z"
+      }
+    },
+    {
+      "id": "u_demo_casual",
+      "username": "CozyLlama",
+      "avatarUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "RPG",
+        "Simulation"
+      ],
+      "weeklyHours": 5,
+      "analysisDepth": "Standard",
+      "playstyleSelfTag": "support",
+      "customBio": "Just looking to relax after work and dive deep into beautiful lore.",
+      "isDemo": true,
+      "createdAt": "2026-06-11T19:33:02.118Z",
+      "dnaProfile": {
+        "personalityName": "COZY EXPLORER",
+        "description": "You enjoy rich worldbuilding, immersive solo environments, and low-stress mechanics where the journey is the primary reward.",
+        "metrics": {
+          "aggression": 15,
+          "strategy": 68,
+          "teamwork": 40
+        },
+        "badges": [
+          "#LoreSeeker",
+          "#CozyVibes",
+          "#PatienceMaster"
+        ],
+        "analysisReliability": 91.5,
+        "competitiveTier": "Casual Explorer",
+        "generatedAt": "2026-06-11T19:33:02.118Z"
+      }
+    },
+    {
+      "id": "u_demo_comp",
+      "username": "VanguardSovereign",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Valorant",
+          "hours": 950
+        },
+        {
+          "name": "Dota 2",
+          "hours": 820
+        }
+      ],
+      "preferredGenres": [
+        "Strategy",
+        "MOBA"
+      ],
+      "weeklyHours": 42,
+      "analysisDepth": "Quantum Synthesis",
+      "playstyleSelfTag": "tactical",
+      "customBio": "Competitive play only. Detail-oriented on map calls and timing windows.",
+      "isDemo": true,
+      "createdAt": "2026-06-11T19:33:02.118Z",
+      "dnaProfile": {
+        "personalityName": "TACTICAL MASTERMIND",
+        "description": "You analyze maps like search grids, coordinate utility deployments in advance, and act as a critical team shot-caller.",
+        "metrics": {
+          "aggression": 50,
+          "strategy": 96,
+          "teamwork": 94
+        },
+        "badges": [
+          "#UtilityKing",
+          "#ShotCaller",
+          "#CalculatedPlay"
+        ],
+        "analysisReliability": 99.8,
+        "competitiveTier": "Level 5 Diamond",
+        "generatedAt": "2026-06-11T19:33:02.118Z"
+      }
+    },
+    {
+      "id": "u_4nrwsif",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:33:26.416Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 47
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 92.4,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-11T19:33:26.412Z"
+      }
+    },
+    {
+      "id": "u_3f1ja8s",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:37:33.769Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 47
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 93.9,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-11T19:37:33.764Z"
+      }
+    },
+    {
+      "id": "u_kixi1vu",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:38:54.311Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 47
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 95.2,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-11T19:38:54.307Z"
+      }
+    },
+    {
+      "id": "u_oaecuxw",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:39:47.990Z",
+      "dnaProfile": {
+        "personalityName": "THE TACTICAL VANGUARD",
+        "description": "A calculated operator who blends the high-octane positioning of squad-based shooters with the deep, preparatory resource management of immersive RPGs. Ramalmir excels in high-pressure scenarios by relying on pre-planned engagements rather than raw chaos, treating every arena like a complex puzzle. Their gameplay strikes a perfect balance between decisive tactical execution and adaptive narrative patience.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 85,
+          "teamwork": 74
+        },
+        "badges": [
+          "#MethodicalSkirmisher",
+          "#PreparatorySlayer",
+          "#ApexCoordinator"
+        ],
+        "analysisReliability": 97.6,
+        "competitiveTier": "Level 4 Tactical Vanguard"
+      }
+    },
+    {
+      "id": "u_67xo5sx",
+      "username": "TestUser",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "hours": 120,
+          "name": "Valorant"
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "Strategy"
+      ],
+      "weeklyHours": 10,
+      "analysisDepth": "Standard",
+      "playstyleSelfTag": "tactical",
+      "customBio": "test",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:40:43.927Z",
+      "dnaProfile": {
+        "personalityName": "THE TACTICAL SENTINEL",
+        "description": "A methodical combatant who prioritizes utility usage, map control, and calculated engagements over raw kinetic shootouts. They leverage strategic positioning to lock down sites and guide their team through high-pressure situations. Their approach merges FPS precision with real-time tactical decision-making.",
+        "metrics": {
+          "aggression": 45,
+          "strategy": 85,
+          "teamwork": 80
+        },
+        "badges": [
+          "#MethodicalMind",
+          "#UtilitySpecialist",
+          "#SiteAnchor"
+        ],
+        "analysisReliability": 94.6,
+        "competitiveTier": "Tier 2 Strategic Sentinel"
+      }
+    },
+    {
+      "id": "u_ekdlwly",
+      "username": "Ramdfsad",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:41:10.025Z",
+      "dnaProfile": {
+        "personalityName": "THE CALIBRATED VANGUARD",
+        "description": "A high-precision competitor who merges the split-second coordination of Apex Legends with the deep, build-oriented preparation of open-world RPGs. They approach engagements with a methodical blueprint, leveraging character abilities and environmental layouts to secure a decisive, calculated advantage over their opponents.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 74
+        },
+        "badges": [
+          "#MethodicalStriker",
+          "#CombatArchitect",
+          "#ApexPrepMaster"
+        ],
+        "analysisReliability": 96.8,
+        "competitiveTier": "Sentinel-Class Tactician"
+      }
+    },
+    {
+      "id": "u_nf6trg9",
+      "username": "LegendComp",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:41:41.864Z",
+      "dnaProfile": {
+        "personalityName": "THE CALCULATED HUNTER",
+        "description": "LegendComp blends the high-stakes positioning of battle royales with the methodical, narrative-driven preparation of dark fantasy RPGs. They excel at mapping out engagements beforehand, utilizing environment control and character build optimization to systematically dismantle opponents. Their playstyle is defined by calculated patience followed by decisive, lethal execution.",
+        "metrics": {
+          "aggression": 74,
+          "strategy": 89,
+          "teamwork": 68
+        },
+        "badges": [
+          "#TacticalExecutioner",
+          "#BuildOptimizer",
+          "#CalculatedApex"
+        ],
+        "analysisReliability": 97.8,
+        "competitiveTier": "Sentinel Tier III"
+      }
+    },
+    {
+      "id": "u_ljhgsn4",
+      "username": "LegendComp",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:42:29.337Z",
+      "dnaProfile": {
+        "personalityName": "THE STRATEGIC VANGUARD",
+        "description": "This player combines the intense, squad-based coordination of competitive battle royales with the calculated preparation of immersive RPGs. They thrive on calculated risks, utilizing deep mechanical knowledge to outmaneuver opponents rather than relying on raw reflexes alone. Every engagement is treated as a tactical puzzle, balancing aggressive execution with high-level positioning and resource management.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 74
+        },
+        "badges": [
+          "#CalculatedStriker",
+          "#Loreweaver",
+          "#SquadCoordinator"
+        ],
+        "analysisReliability": 96.8,
+        "competitiveTier": "Tier 2 Apex Strategist"
+      }
+    },
+    {
+      "id": "u_tcyrnc3",
+      "username": "LegendComp",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:43:52.662Z",
+      "dnaProfile": {
+        "personalityName": "THE HYBRID TACTICIAN",
+        "description": "LegendComp blends the high-velocity spatial awareness of Apex Legends with the methodical planning of RPG combat. They prioritize strategic positioning, optimal resource management, and coordinated squad engagements over mindless aggression. This results in a highly adaptable, lethal playstyle that dominates both team fights and solo encounters.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 75
+        },
+        "badges": [
+          "#CalculatedStriker",
+          "#ResourceArchitect",
+          "#ApexCoordinator"
+        ],
+        "analysisReliability": 97.4,
+        "competitiveTier": "Level 4 Sentinel"
+      }
+    },
+    {
+      "id": "u_4hz321o",
+      "username": "LegendComp",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:44:30.353Z",
+      "dnaProfile": {
+        "personalityName": "THE METHODICAL VANGUARD",
+        "description": "Balancing the high-intensity team coordination of Apex Legends with the calculated, preparation-heavy combat of The Witcher 3, this player excels at systematic engagement. They prioritize map positioning, resource management, and tactical synergy over reckless aggression, ensuring every firefight is fought on their own terms.",
+        "metrics": {
+          "aggression": 72,
+          "strategy": 88,
+          "teamwork": 82
+        },
+        "badges": [
+          "#MethodicalStriker",
+          "#PrepMaster",
+          "#CalculatedApex"
+        ],
+        "analysisReliability": 98.7,
+        "competitiveTier": "Vanguard Strategist II"
+      }
+    },
+    {
+      "id": "u_d08ygpd",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        },
+        {
+          "name": "Counter-Strike 2",
+          "hours": 100
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:45:38.484Z",
+      "dnaProfile": {
+        "personalityName": "THE HYBRID TACTICAL SKIRMISHER",
+        "description": "Ramalmir blends the high-stakes coordination of tactical FPS environments with the calculated preparation and adaptability of complex action RPGs. They excel at mapping out team rotations and executing precise mechanical plays under pressure, leveraging situational awareness to outmaneuver opponents. This playstyle balances aggressive spatial control with a highly disciplined, methodical approach to combat engagement.",
+        "metrics": {
+          "aggression": 74,
+          "strategy": 88,
+          "teamwork": 79
+        },
+        "badges": [
+          "#CalculatedPacerRanked",
+          "#SynergyOperative",
+          "#VersatileCombatant"
+        ],
+        "analysisReliability": 96.8,
+        "competitiveTier": "Level 4 Vanguard"
+      }
+    },
+    {
+      "id": "u_ox3m8rx",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:46:03.055Z",
+      "dnaProfile": {
+        "personalityName": "THE CALCULATED HUNTER",
+        "description": "Ramalmir blends the rapid, high-stakes decision-making of competitive battle royale play with the meticulous preparation of a legendary monster slayer. They excel in coordinating squad positioning and utilizing environmental geometry to secure the upper hand, treating every encounter as a tactical puzzle. This player leverages sharp combat mechanics alongside patient, resource-driven strategies to systematically dismantle opponents.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 75
+        },
+        "badges": [
+          "#TacticalApex",
+          "#MethodicalSlayer",
+          "#ApexVanguard"
+        ],
+        "analysisReliability": 96.8,
+        "competitiveTier": "Level 4 Sentinel"
+      }
+    },
+    {
+      "id": "u_hppwds2",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:48:30.196Z",
+      "dnaProfile": {
+        "personalityName": "THE PRAGMATIC VANGUARD",
+        "description": "A calculating combatant who seamlessly blends high-stakes tactical coordination in squad shooters with the methodical preparation and narrative depth of heavy RPGs. They excel at analyzing battlefield environments and resource management to secure decisive, pre-planned victories over raw chaotic engagements. Their gameplay is defined by structured adaptability, balancing aggressive mechanical execution with patient, systemic strategy.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 74
+        },
+        "badges": [
+          "#CalculatedStriker",
+          "#LoreboundHunter",
+          "#TacticalInfiltrator"
+        ],
+        "analysisReliability": 96.8,
+        "competitiveTier": "Vanguard Tier III"
+      }
+    },
+    {
+      "id": "u_cp2c4cc",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:48:41.388Z",
+      "dnaProfile": {
+        "personalityName": "THE TACTICAL APEX VANGUARD",
+        "description": "Ramalmir excels in high-stakes environments where fluid squad-based combat meets calculated positional play, drawing from a deep appreciation for preparation and narrative-driven adaptation. They thrive under pressure, blending fast-paced FPS mechanics with the meticulous combat preparation characteristic of seasoned roleplayers. This dual affinity yields a highly adaptable combatant who strikes with precision only when the tactical landscape shifts in their favor.",
+        "metrics": {
+          "aggression": 74,
+          "strategy": 88,
+          "teamwork": 76
+        },
+        "badges": [
+          "#CalculatedStriker",
+          "#LoreboundSlayer",
+          "#SquadTactician"
+        ],
+        "analysisReliability": 97.8,
+        "competitiveTier": "Level 4 Quantum Vanguard"
+      }
+    },
+    {
+      "id": "u_tubzbgb",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T19:49:01.228Z",
+      "dnaProfile": {
+        "personalityName": "THE HYBRID TACTICIAN",
+        "description": "Ramalmir balances high-stakes squad coordination in competitive shooters with meticulous, preparation-heavy gameplay in deep role-playing worlds. They thrive on executing calculated flanking maneuvers in Apex Legends, while applying the same systematic foresight to hunt down formidable foes in The Witcher 3. Their style is defined by a highly adaptable synergy of rapid execution and deep mechanical mastery.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 72
+        },
+        "badges": [
+          "#CalculatedStriker",
+          "#LoreTactician",
+          "#SquadVanguard"
+        ],
+        "analysisReliability": 97.4,
+        "competitiveTier": "Level 4 Sentinel-Vanguard"
+      }
+    },
+    {
+      "id": "u_22br2pl",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-11T20:00:48.619Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 47
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 93.1,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-11T20:00:48.613Z"
+      }
+    },
+    {
+      "id": "u_5roxl7t",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T05:21:48.269Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 47
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 98.8,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T05:21:48.266Z"
+      }
+    },
+    {
+      "id": "u_fu3p4hw",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T05:26:15.175Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 47
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 99.6,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T05:26:15.172Z"
+      }
+    },
+    {
+      "id": "u_gafqp6r",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Apex Legends",
+          "hours": 450
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "hours": 120
+        }
+      ],
+      "preferredGenres": [
+        "FPS",
+        "RPG"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T05:29:42.185Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 68,
+          "strategy": 88,
+          "teamwork": 47
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 95.8,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T05:29:42.182Z"
+      }
+    },
+    {
+      "id": "u_7lsxt0x",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "rdr2",
+          "hours": 50
+        }
+      ],
+      "preferredGenres": [
+        "Adventure",
+        "Strategy"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T05:34:00.433Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 45,
+          "strategy": 70,
+          "teamwork": 50
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 99.5,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T05:34:00.431Z"
+      }
+    },
+    {
+      "id": "u_j1jt1w0",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Red dead redemption",
+          "hours": 30
+        }
+      ],
+      "preferredGenres": [
+        "Strategy",
+        "Adventure"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T05:34:59.280Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 45,
+          "strategy": 70,
+          "teamwork": 50
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 97.4,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T05:34:59.277Z"
+      }
+    },
+    {
+      "id": "u_z8d22k1",
+      "username": "Lili",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Roblox",
+          "hours": 100
+        },
+        {
+          "name": "Mortal Kombat",
+          "hours": 100
+        },
+        {
+          "name": "Brawl Stars",
+          "hours": 100
+        },
+        {
+          "name": "Among us",
+          "hours": 100
+        }
+      ],
+      "preferredGenres": [
+        "Strategy",
+        "Horror",
+        "Adventure"
+      ],
+      "weeklyHours": 10,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "HEHE",
+      "isDemo": false,
+      "createdAt": "2026-06-12T05:52:36.214Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 45,
+          "strategy": 70,
+          "teamwork": 50
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 96.7,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T05:52:36.211Z"
+      }
+    },
+    {
+      "id": "u_nuuz429",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Roblox",
+          "hours": 50
+        }
+      ],
+      "preferredGenres": [
+        "Sports",
+        "Adventure"
+      ],
+      "weeklyHours": 34,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T06:08:44.987Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 45,
+          "strategy": 70,
+          "teamwork": 50
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 95.3,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T06:08:44.983Z"
+      }
+    },
+    {
+      "id": "u_j5e44lb",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "Roblox",
+          "hours": 100
+        }
+      ],
+      "preferredGenres": [
+        "Sports",
+        "Adventure"
+      ],
+      "weeklyHours": 28,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "tactical",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T06:14:01.982Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 45,
+          "strategy": 70,
+          "teamwork": 50
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 95.8,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T06:14:01.979Z"
+      }
+    },
+    {
+      "id": "u_21jl5q2",
+      "username": "Ramalmir",
+      "avatarUrl": "https://images.unsplash.com/photo-1628157582853-a796fa650a6a?q=80&w=150&auto=format&fit=crop",
+      "favoriteGames": [
+        {
+          "name": "fortnite",
+          "hours": 100
+        }
+      ],
+      "preferredGenres": [
+        "Adventure",
+        "Strategy"
+      ],
+      "weeklyHours": 15,
+      "analysisDepth": "Neural Decryption",
+      "playstyleSelfTag": "balanced",
+      "customBio": "",
+      "isDemo": false,
+      "createdAt": "2026-06-12T06:19:40.648Z",
+      "dnaProfile": {
+        "personalityName": "BALANCED TEAM PLAYER",
+        "description": "You are a versatile gaming presence, filling gaps dynamically in your squad and responding with measured force.",
+        "metrics": {
+          "aggression": 60,
+          "strategy": 60,
+          "teamwork": 60
+        },
+        "badges": [
+          "#TacticalFlex",
+          "#AllRounder",
+          "#Adaptable"
+        ],
+        "analysisReliability": 97.5,
+        "competitiveTier": "Level 2 Sentinel",
+        "generatedAt": "2026-06-12T06:19:40.645Z"
+      }
+    }
+  ],
+  "games": [
+    {
+      "id": "g1",
+      "name": "Apex Legends",
+      "genre": "FPS",
+      "tags": [
+        "Battle Royale",
+        "High Mobility",
+        "Team Squads",
+        "FPS"
+      ],
+      "playstyleAttributes": {
+        "aggression": 90,
+        "strategy": 65,
+        "teamwork": 75
+      },
+      "description": "Fast-paced free-to-play battle royale game where legendary characters with powerful abilities team up to battle for fame and fortune.",
+      "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "id": "g2",
+      "name": "Valorant",
+      "genre": "Strategy",
+      "tags": [
+        "Tactical Shooter",
+        "Patience",
+        "Precision",
+        "Team Coordination"
+      ],
+      "playstyleAttributes": {
+        "aggression": 60,
+        "strategy": 88,
+        "teamwork": 90
+      },
+      "description": "A 5v5 character-based tactical shooter where precise gunplay meets unique agent abilities. Highly strategic and team-focused.",
+      "imageUrl": "https://images.unsplash.com/photo-1553481187-be93c21490a9?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "id": "g3",
+      "name": "Elden Ring",
+      "genre": "RPG",
+      "tags": [
+        "Action RPG",
+        "Soulslike",
+        "Solo Discovery",
+        "Open World"
+      ],
+      "playstyleAttributes": {
+        "aggression": 82,
+        "strategy": 92,
+        "teamwork": 25
+      },
+      "description": "An action-filled fantasy RPG where you traverse the Lands Between, study complex boss attack codes, and carve your own path.",
+      "imageUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "id": "g4",
+      "name": "League of Legends",
+      "genre": "MOBA",
+      "tags": [
+        "MOBA",
+        "Resource Control",
+        "Map Awareness",
+        "Deep Strategy"
+      ],
+      "playstyleAttributes": {
+        "aggression": 75,
+        "strategy": 82,
+        "teamwork": 95
+      },
+      "description": "Team-based video game with over 140 champions to make epic plays. Secure map objectives and execute team coordination to break the Nexus.",
+      "imageUrl": "https://images.unsplash.com/photo-1560253023-3ec5d502959f?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "id": "g5",
+      "name": "Counter-Strike 2",
+      "genre": "FPS",
+      "tags": [
+        "Tactical FPS",
+        "Map Control",
+        "Economy Management",
+        "Classic Shooter"
+      ],
+      "playstyleAttributes": {
+        "aggression": 70,
+        "strategy": 85,
+        "teamwork": 88
+      },
+      "description": "The absolute gold standard of objective-based shooter gameplay. Strategize economy spending and execute smokes with perfect communication.",
+      "imageUrl": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "id": "g6",
+      "name": "The Witcher 3: Wild Hunt",
+      "genre": "RPG",
+      "tags": [
+        "Story Driven",
+        "Exploration",
+        "Monster Hunting",
+        "Narrative"
+      ],
+      "playstyleAttributes": {
+        "aggression": 55,
+        "strategy": 75,
+        "teamwork": 10
+      },
+      "description": "Explore a massive dark-fantasy world, formulate potion prep strategies, and follow the legendary white-haired monster hunter.",
+      "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "id": "g7",
+      "name": "Dota 2",
+      "genre": "MOBA",
+      "tags": [
+        "Hardcore Strategy",
+        "MOBA",
+        "Deep Mechanics",
+        "Team Coordination"
+      ],
+      "playstyleAttributes": {
+        "aggression": 65,
+        "strategy": 95,
+        "teamwork": 98
+      },
+      "description": "A highly complex multiplayer online battle arena. Extremely steep learning curve; rewards tactical synchronization and map discipline.",
+      "imageUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=600&auto=format&fit=crop"
+    },
+    {
+      "id": "g8",
+      "name": "Cyberpunk 2077",
+      "genre": "RPG",
+      "tags": [
+        "Action RPG",
+        "Cyberpunk",
+        "High Mobility",
+        "Solo Campaign"
+      ],
+      "playstyleAttributes": {
+        "aggression": 85,
+        "strategy": 60,
+        "teamwork": 15
+      },
+      "description": "Immerse yourself in Night City as a customized mercenary. Build high-mobility stealth or heavy assault characters with specialized tech.",
+      "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=600&auto=format&fit=crop"
+    }
+  ],
+  "matches": [
+    {
+      "userId": "m1",
+      "username": "WraithMain99",
+      "avatarUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=150&auto=format&fit=crop",
+      "personalityName": "SHADOW ASSASSIN",
+      "compatibility": 96,
+      "playstyleLabels": [
+        "Aggressive",
+        "High Mobility",
+        "Close Combat"
+      ],
+      "synergyExplanation": "They push aggressively, acting as the ultimate entry fragger while you orchestrate high-level strategies."
+    },
+    {
+      "userId": "m2",
+      "username": "Tactical_Tim",
+      "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150&auto=format&fit=crop",
+      "personalityName": "MASTER STRATEGIST",
+      "compatibility": 91,
+      "playstyleLabels": [
+        "Tactical",
+        "Shot Caller",
+        "Objective Focused"
+      ],
+      "synergyExplanation": "Features exceptional communication synchronization. Tim coordinates structural layouts while you execute clutch strikes."
+    },
+    {
+      "userId": "m3",
+      "username": "Nova_Queen",
+      "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=150&auto=format&fit=crop",
+      "personalityName": "ENTRY FRAGGER",
+      "compatibility": 88,
+      "playstyleLabels": [
+        "High Voltage",
+        "#ClutchQueen",
+        "Hyper Active"
+      ],
+      "synergyExplanation": "Perfect for aggressive frontlines. They draw fire and disrupt enemy formations, allowing you clean follow-up targets."
+    },
+    {
+      "userId": "m4",
+      "username": "CyberRonin",
+      "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=150&auto=format&fit=crop",
+      "personalityName": "HYBRID SNIPER",
+      "compatibility": 84,
+      "playstyleLabels": [
+        "Support Combat",
+        "Patience",
+        "Map Spotter"
+      ],
+      "synergyExplanation": "Provides defensive and scout support. Holds back angles while you execute tactical mid-range actions."
+    },
+    {
+      "userId": "m5",
+      "username": "AstraGamer",
+      "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=150&auto=format&fit=crop",
+      "personalityName": "SUPPORT MINDSET",
+      "compatibility": 79,
+      "playstyleLabels": [
+        "Healer",
+        "Patience",
+        "Resource Giver"
+      ],
+      "synergyExplanation": "Keeps you supplied and patched up, giving you maximum uptime during long battle cycles."
+    }
+  ],
+  "cms": {
+    "homePage": {
+      "tagline": "NEXT-GEN GAMING INTELLIGENCE",
+      "heroTitle": "Discover Your Gaming DNA",
+      "heroSubtitle": "Analyze your behavior, unlock your unique playstyle profile, and find games and teammates perfectly synced with your competitive edge.",
+      "ctaAnalyzeText": "Analyze My Profile",
+      "ctaDemoText": "View Demo",
+      "statsCounterProfiles": "50k+",
+      "statsCounterAccuracy": "98%",
+      "statsCounterRating": "4.9/5",
+      "trustHeading": "Engineered for the Elite",
+      "trustText": "Our AI-driven algorithms digest thousands of gameplay data points to construct a profile that goes beyond simple stats.",
+      "scienceTitle": "More Than Just a High Score",
+      "scienceSubtitle": "We analyze reaction times, decision patterns, and spatial awareness to build a digital twin of your gaming subconscious. Whether you're a casual player or an aspiring pro, GameDNA provides the roadmap to your peak performance.",
+      "scienceBullet1": "Privacy-first data processing protocol",
+      "scienceBullet2": "Used by top eSports analysts globally",
+      "scienceBullet3": "Cross-platform support (PC, Console, Mobile)"
+    },
+    "seoSettings": {
+      "metaTitle": "GameDNA - Discovery Your Gaming Playstyle DNA & Squadmates",
+      "metaDescription": "GameDNA uses machine learning to decode your gaming habits, map your gaming personality, recommend perfect titles, and connect you with compatible squadmates.",
+      "urlSlug": "game-dna-intel"
+    },
+    "recWeights": {
+      "genreMatchWeight": 0.4,
+      "playstyleWeight": 0.4,
+      "hoursWeight": 0.2,
+      "matchingSensitivity": 0.85
+    }
+  },
+  "analytics": {
+    "totalAnalyzedProfiles": 48937,
+    "activeSessions": 182,
+    "successfulMatchups": 1542,
+    "recClicksCount": {
+      "Apex Legends": 242,
+      "Valorant": 198,
+      "Elden Ring": 115
+    },
+    "mostRecommendedGames": [
+      {
+        "name": "Valorant",
+        "count": 2405
+      },
+      {
+        "name": "Apex Legends",
+        "count": 1985
+      },
+      {
+        "name": "Elden Ring",
+        "count": 1450
+      }
+    ]
+  }
+}

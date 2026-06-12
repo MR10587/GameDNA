@@ -1,0 +1,6 @@
+{
+  "name": "GameDNA",
+  "description": "AI-powered gaming DNA intelligence platform for playstyle analysis, personalized game recommendations, and compatible squad matchmaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
